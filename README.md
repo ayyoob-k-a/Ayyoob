@@ -214,7 +214,6 @@ Technique: Whale Shark
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Crew Power"/>
 
 </div>
 
@@ -229,7 +228,6 @@ Technique: Whale Shark
 <td width="25%" align="center">
 
 ### 🏦 **FINORA ISLAND**
-<img src="https://img.shields.io/badge/Status-CONQUERED-FFD700?style=for-the-badge&labelColor=000000&logo=checkmarx" alt="Conquered"/>
 
 ```
 ╔════════════════════╗
@@ -317,7 +315,6 @@ Technique: Whale Shark
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Projects Adventure"/>
 
 </div>
 
@@ -365,9 +362,7 @@ Technique: Whale Shark
 </table>
 </div>
 
-### 👁️ **OBSERVATION HAKI - CONTRIBUTION ACTIVITY** 👁️
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyoobka&bg_color=0D1117&color=FFD700&line=FF6B35&point=FFFFFF&area=true&hide_border=false&border_color=FF6B35&title_color=FFD700&radius=15&custom_title=🔥%20Contribution%20Battlefield" width="100%" alt="Activity Graph"/>
 
 ### 🎯 **DETAILED METRICS DASHBOARD** 🎯
 
@@ -395,82 +390,6 @@ Technique: Whale Shark
 
 ---
 
-## <div align="center">🌟 **PHILOSOPHY & LEGENDARY QUOTES** 🌟</div>
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### 💬 **LUFFY → CODE PHILOSOPHY** 💬
-
-> *🏴‍☠️ "I'm gonna be Flutter King!"*  
-> **🎯 Meaning:** Unstoppable determination to master Flutter development
-
-> *⚔️ "The person with the most freedom to code... that's the Flutter King!"*  
-> **🔥 Philosophy:** True freedom lies in creative coding without boundaries
-
-> *🚀 "If you don't take risks in your code architecture, you can't create the future!"*  
-> **💡 Lesson:** Innovation demands bold architectural decisions
-
-> *💪 "I don't care how many bugs there are! I'll debug them all!"*  
-> **🛠️ Spirit:** Never surrender to technical challenges
-
-> *🌟 "My crew's code will change the world!"*  
-> **🌍 Vision:** Technology should empower humanity
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Philosophy Animation"/>
-
-</td>
-<td width="50%" align="center">
-
-### 🎯 **CODE > HUMANS MANIFESTO** 🎯
-
-```python
-class MonkeyDAyyoob:
-    def __init__(self):
-        self.name = "Ayyoob K A"
-        self.alias = "Monkey D. Ayyoob"
-        self.title = "Flutter King"
-        self.dream = "Perfect Code Architecture"
-        self.belief = "CODE > HUMANS"
-        self.crew = "Nexteons Pirates"
-        self.bounty = "₹2,00,00,000"
-        self.devil_fruit = "Flutter-Flutter Fruit"
-        
-    def gomu_gomu_techniques(self):
-        return {
-            "🔥 Dart Pistol": "Lightning fast bug fixes",
-            "💥 Flutter Bazooka": "Major feature deployments", 
-            "👑 Gear 5 Debug": "God-tier problem solving",
-            "⚡ Red Hawk Commit": "Critical hotfix delivery",
-            "🦍 King Kong Code": "Massive system refactoring",
-            "🌟 Conqueror's Deploy": "Production dominance"
-        }
-    
-    def haki_abilities(self):
-        return {
-            "observation_haki": "Predict code bugs before they happen",
-            "armament_haki": "Write unbreakable, robust code",
-            "conquerors_haki": "Lead development teams to victory"
-        }
-    
-    def declare_dream(self):
-        print("🏴‍☠️ I'M GONNA BE FLUTTER KING! 👑")
-        print("🚀 AND FIND THE ONE PIECE OF PERFECT CODE!")
-        return "NAKAMA POWER ACTIVATED! 💪"
-
-# Initialize the Flutter King
-flutter_king = MonkeyDAyyoob()
-flutter_king.declare_dream()
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding Power"/>
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
